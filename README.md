@@ -16,5 +16,7 @@ Functionality covered in this automation Project are :
 
 ![MystoreRegistLogin](https://github.com/Hanif72/Lumma-Shop/assets/93150103/4cde6e85-7b29-4ba6-a17d-a9b685f9c86b)
 
-![Screenshot (25)](https://github.com/Hanif72/Lumma-Shop/assets/93150103/e9bc009c-9cf1-459a-8aa4-9fa7d1616b9a)
 
+
+
+![Screenshot (25)](https://github.com/Hanif72/Lumma-Shop/assets/93150103/70e0aa44-c23a-4e6f-8972-64846a41524a)
