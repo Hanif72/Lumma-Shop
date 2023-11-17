@@ -14,4 +14,4 @@ Functionality covered in this automation Project are :
 
 ## Final Automation Report using Extend Report <br>
 
-<img src="MystoreRegistLogin/1.PNG" height=500 width=1000/><br>
+<img src="MystoreRegistLogin.PNG" height=500 width=1000/><br>
