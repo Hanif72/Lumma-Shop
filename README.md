@@ -12,6 +12,8 @@ Functionality covered in this automation Project are :
 9.  Checkout
 10. SignOut
 
-## Final Automation Report using Extend Report <br>
+## Final Automation Report using Extend Report
 
-<img src="MystoreRegistLogin.PNG" height=500 width=1000/><br>
+![MystoreRegistLogin](https://github.com/Hanif72/Lumma-Shop/assets/93150103/4cde6e85-7b29-4ba6-a17d-a9b685f9c86b)
+
+
